@@ -14,4 +14,7 @@ $options = array(
     );
 //connection string (ito na yung tatawagin natin kapag mageexecute na ng query)
 $conn = new PDO($dsn, $username, $password, $options);
+
+
+// some shit
 ?>
